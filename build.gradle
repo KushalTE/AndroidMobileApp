@@ -21,6 +21,7 @@ sonarqube {
     properties {
         property "sonar.projectName", "AndroidMobileApp"
         property "sonar.projectKey", "AndroidMobileApp"
+        property "sonar.sources", "app"
     }
 }
 
